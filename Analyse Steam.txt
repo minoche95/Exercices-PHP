@@ -1,0 +1,8 @@
+Éléments visibles (Front-end) : Partie visible de l'application, exécutée dans le navigateur. Sur Steam, cela correspond aux boutons (ex: "Ajouter au panier", "Installer"), à la barre de recherche, aux menus de navigation entre la boutique et la bibliothèque, ainsi qu'à la mise en page (images, descriptions des jeux...).
+
+Actions en arrière-plan (Back-end) : Partie invisible coté serveur qui gère la logique et les bases de données. Sur Steam, l'authentification des utilisateurs, le traitement et la validation des paiements, ainsi que la gestion de la base de données pour stocker les informations des joueurs.
+
+
+Technologies utilisées (Front-end) : Pour structurer et rendre cette interface interactive, Steam s'appuie sur des langages comme HTML, CSS et JavaScript, et potentiellement React ou Vue.js.
+
+Technologies utilisées (Back-end) : Pour gérer les requêtes et les bases de données, le backend de Steam utilise des langages côté serveur (comme PHP, Python, Java, Node.js ou Ruby) et des systèmes de gestion de bases de données (comme MySQL ou PostgreSQL).

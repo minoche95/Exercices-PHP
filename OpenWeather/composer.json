@@ -1,0 +1,17 @@
+{
+    "name": "pfery/open-weather",
+    "autoload": {
+        "psr-4": {
+            "Pfery\\OpenWeather\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "minoche95",
+            "email": "minoche95@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}
